@@ -37,7 +37,8 @@ image_text, question_text = init_widgets(
     #input the question for the imagine
 )
 ```
-
+Given an exmple of imagine and answer
+![image](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?projector=1)
 # Reference
 [1] https://paperswithcode.com/dataset/visual-question-answering-v2-0
 
