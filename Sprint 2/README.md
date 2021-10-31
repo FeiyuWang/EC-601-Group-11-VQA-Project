@@ -37,7 +37,7 @@ image_text, question_text = init_widgets(
     #input the question for the imagine
 )
 ```
-Given an exmple of imagine and answer
+Given an exmple of imagine and answer, the model shows result like below
 
 ![image](https://github.com/zyf993/Github_imagines/blob/main/WeChat%20Image_20211031125310.png)
 
