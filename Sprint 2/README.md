@@ -29,6 +29,15 @@ To set the environment, follow the following steps from [4].
 * Install maskrcnn-benchmark
 * Demo
 
+After the set of environment, input questions and imagines to get the VQA answer result.
+```
+
+image_text, question_text = init_widgets(
+    #input the URL of imagine, 
+    #input the question for the imagine
+)
+```
+
 # Reference
 [1] https://paperswithcode.com/dataset/visual-question-answering-v2-0
 
