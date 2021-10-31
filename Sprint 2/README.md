@@ -18,6 +18,10 @@ Single model VQA 2.0 and VizWiz performance in %
 
 ![image](https://user-images.githubusercontent.com/90427304/139571528-70a80f46-0fcf-40ae-9843-575e8ff56878.png)
 
+# Model
+
+The model uded in VQA is 
+
 # Reference
 [1] https://paperswithcode.com/dataset/visual-question-answering-v2-0
 
