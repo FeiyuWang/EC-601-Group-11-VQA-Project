@@ -20,9 +20,11 @@ Single model VQA 2.0 and VizWiz performance in %
 
 # Model
 
-The model uded in VQA is MMF, MoViE+MCAN model. The MMF uses the same based technologies - Bottom up and top down to analysis imagines and respones with answers by the question raised.
+The model uded in VQA is MMF, MoViE+MCAN model. The MMF uses the same based technologies - Bottom up and top down to analysis imagines and respones with answers by the question raised.[3]
 
 # Reference
 [1] https://paperswithcode.com/dataset/visual-question-answering-v2-0
 
 [2] https://arxiv.org/pdf/1904.08920v2.pdf
+
+[3] https://mmf.sh/docs/projects/movie_mcan/
