@@ -38,7 +38,9 @@ image_text, question_text = init_widgets(
 )
 ```
 Given an exmple of imagine and answer
+
 ![image](https://github.com/zyf993/Github_imagines/blob/main/WeChat%20Image_20211031125310.png)
+
 # Reference
 [1] https://paperswithcode.com/dataset/visual-question-answering-v2-0
 
