@@ -20,7 +20,7 @@ Single model VQA 2.0 and VizWiz performance in %
 
 # Model
 
-The model uded in VQA is MMF, MoViE+MCAN model. The MMF uses the same based technologies - Bottom up and top down to analysis imagines and respones with answers by the question raised.[3]
+The model uded in VQA is MMF, MoViE+MCAN model，formerly known as Pythia. The MMF uses the same based technologies - Bottom up and top down to analysis imagines and respones with answers by the question raised.[3]
 
 To set the environment, follow the following steps from [4].
 * download data
