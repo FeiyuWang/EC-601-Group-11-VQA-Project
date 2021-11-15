@@ -29,3 +29,5 @@ os.system("mpg321 welcome.mp3")
 [1] https://arxiv.org/abs/1802.08218v2
 
 [2] https://vizwiz.org/tasks-and-datasets/vqa/
+
+[3] https://pypi.org/project/gTTS/
