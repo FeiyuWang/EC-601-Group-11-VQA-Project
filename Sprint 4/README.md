@@ -11,5 +11,9 @@ It provide a decoder utility for simplicity (we could include it into our model 
 
 
 
+With this STT model, we can record the verbal question about the image using the microphone in our computer. Then tranform the voice file in wav form，which is a standard digital audio file that can record a variety of mono or stereo sound information without distortion. After that, uploading the voice file and run the model. The question will be display in text form.
+
+![image](https://user-images.githubusercontent.com/90427304/144302759-ba12869d-2689-4df7-aa12-a1b9db4a332d.png)
+
 # Reference
 [1] https://colab.research.google.com/github/pytorch/pytorch.github.io/blob/master/assets/hub/snakers4_silero-models_stt.ipynb
